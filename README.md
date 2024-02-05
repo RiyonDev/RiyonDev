@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1086661126403657869)](https://discord.com/users/1086661126403657869)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1201986033206702140)](https://discord.com/users/1201986033206702140)
 
 <!---
 RiyonDev/RiyonDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
