@@ -1,10 +1,9 @@
 <h2 align="center">👋 Hello! I'm Riyon.</h2>
 
-- 👋 Hi, I’m @RiyonDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @RiyonDev.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on more python and js projects.
 
 ## My favorite tools and technologies ⚙️
 
