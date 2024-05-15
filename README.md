@@ -131,6 +131,9 @@
  </tr>
 </table>
 
+[![Riyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riyondev)]
+
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1201986033206702140)](https://discord.com/users/1201986033206702140)
 
 
